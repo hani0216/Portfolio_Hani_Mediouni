@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/Portfolio_Hani_Mediouni/static/css/main.2f5d606c.css",
+    "main.js": "/Portfolio_Hani_Mediouni/static/js/main.01e92eeb.js",
+    "static/js/453.ace21015.chunk.js": "/Portfolio_Hani_Mediouni/static/js/453.ace21015.chunk.js",
+    "static/media/blog.png": "/Portfolio_Hani_Mediouni/static/media/blog.eaeafd4fc06223dc52eb.png",
+    "static/media/DEvops.png": "/Portfolio_Hani_Mediouni/static/media/DEvops.2dbe2059a6ee494292f3.png",
+    "static/media/leaf.png": "/Portfolio_Hani_Mediouni/static/media/leaf.da983c6e48ba69c112f1.png",
+    "static/media/chatify.png": "/Portfolio_Hani_Mediouni/static/media/chatify.08fdb64af5d87d2f9a8f.png",
+    "static/media/CV_Hani_Mediouni.pdf": "/Portfolio_Hani_Mediouni/static/media/CV_Hani_Mediouni.4c8dc562b75342163842.pdf",
+    "static/media/emotion.png": "/Portfolio_Hani_Mediouni/static/media/emotion.eabfc16e7a146ab15778.png",
+    "static/media/suicide.png": "/Portfolio_Hani_Mediouni/static/media/suicide.9c86cd7138a398c45fa5.png",
+    "static/media/codeEditor.png": "/Portfolio_Hani_Mediouni/static/media/codeEditor.1b585492490c8c1cace9.png",
+    "static/media/home-main.svg": "/Portfolio_Hani_Mediouni/static/media/home-main.359935c39288e92d4dba5c9f2445b91d.svg",
+    "static/media/about.png": "/Portfolio_Hani_Mediouni/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/home-bg.jpg": "/Portfolio_Hani_Mediouni/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/avatar.svg": "/Portfolio_Hani_Mediouni/static/media/avatar.7f806e40d46fc76fbc3c4a3d71349951.svg",
+    "static/media/pre.svg": "/Portfolio_Hani_Mediouni/static/media/pre.4410c5baaa673cc131da.svg",
+    "index.html": "/Portfolio_Hani_Mediouni/index.html",
+    "main.2f5d606c.css.map": "/Portfolio_Hani_Mediouni/static/css/main.2f5d606c.css.map",
+    "main.01e92eeb.js.map": "/Portfolio_Hani_Mediouni/static/js/main.01e92eeb.js.map",
+    "453.ace21015.chunk.js.map": "/Portfolio_Hani_Mediouni/static/js/453.ace21015.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2f5d606c.css",
+    "static/js/main.01e92eeb.js"
+  ]
+}
